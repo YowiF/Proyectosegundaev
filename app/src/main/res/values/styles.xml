@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MyListItemStyle" parent="@android:style/Widget.TextView">
+        <item name="android:textColor">#90EE90</item> <!-- Cambiar a cualquier color deseado -->
+    </style>
+</resources>

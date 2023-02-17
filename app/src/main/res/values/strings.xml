@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Proyecto segundaEv</string>
+    <string name="email">Email:</string>
+    <string name="nombre">Nombre:</string>
+    <string name="direccion">Direccion:</string>
+    <string name="contrasena">Contrasena:</string>
+    <string name="iniciosesion">INICIO DE SESIÓN</string>
+    <string name="telefono">Telefono:</string>
+    <string name="registrar">Registrar</string>
+    <string name="guardar">Guardar</string>
+    <string name="modificar">Modificar</string>
+    <string name="borrar">Borrar</string>
+    <string name="listado">Listado</string>
+    <string name="estilo">Estilo</string>
+
+
+</resources>
